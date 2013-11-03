@@ -1,5 +1,5 @@
-	untitled
+untitled
 ========
 
-	visual novel
+~~visual novel~~
 
